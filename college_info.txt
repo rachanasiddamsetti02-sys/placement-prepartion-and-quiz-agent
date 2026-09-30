@@ -1,0 +1,34 @@
+# NOTE: Sample data. Replace every section with your real college placement details.
+
+## Placement Overview
+Sunrise Institute of Technology has a dedicated Training and Placement Cell (TPC). Placement drives run from August to March for final-year students. In the last academic year, 92 percent of eligible students were placed. The highest package was 42 LPA, the average package was 7.5 LPA and the median package was 6 LPA.
+
+## Eligibility Criteria
+Students need a minimum of 6.5 CGPA (or 65 percent) with no active backlogs to sit for most companies. Premium companies with packages above 15 LPA require 8.0 CGPA. Students who get placed in a Dream company (above 10 LPA) may be barred from further drives, while others may attempt one more company.
+
+## Top Recruiters
+Product companies: Microsoft, Amazon, Adobe, Atlassian. Service companies: TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini. Core and others: L&T, Bosch, Deloitte, Zoho.
+
+## Placement Process
+Typical process: 1) Pre-placement talk, 2) Online aptitude and coding test, 3) Technical interview rounds (one to three), 4) Managerial or HR round, 5) Offer letter. Registration is done through the TPC portal at least 48 hours before each drive.
+
+## Aptitude Test Pattern
+Most service companies use a 60 minute test: 20 quantitative questions, 15 logical reasoning questions, 15 verbal ability questions and 2 coding questions. There is usually no negative marking, but sectional cut-offs apply.
+
+## Coding Round Pattern
+Product companies give 2 to 3 problems in 90 minutes on platforms such as HackerRank or CodeSignal. Topics: arrays, strings, hashing, two pointers, recursion, trees, graphs, dynamic programming and SQL queries.
+
+## Technical Interview Topics
+Data structures and algorithms, OOP concepts, DBMS (normalization, transactions, indexing, joins), Operating Systems (processes, threads, deadlocks, scheduling), Computer Networks (OSI model, TCP vs UDP, HTTP), and one or two projects listed on the resume.
+
+## Resume Guidelines
+Keep the resume to one page. Include a projects section with tech stack and measurable impact, internships, certifications and coding profiles. Avoid photos, generic objectives and listing skills you cannot discuss confidently.
+
+## HR Interview Tips
+Common questions: Tell me about yourself, strengths and weaknesses, why this company, where do you see yourself in five years, willingness to relocate. Use the STAR method (Situation, Task, Action, Result) for behavioural questions.
+
+## Training Schedule
+Weekly aptitude classes on Monday and Wednesday, coding practice labs on Tuesday and Thursday, and mock interviews every Saturday. Mock interview slots are booked through the TPC portal.
+
+## Contact
+Training and Placement Cell, Sunrise Institute of Technology. Email: tpc@sunrise.example.edu. Office hours: 10 AM to 4 PM, Monday to Friday.
